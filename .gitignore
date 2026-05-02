@@ -1,0 +1,30 @@
+# Build artifacts
+**/build/
+*.apk
+*.aar
+*.ap_
+*.dex
+*.class
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.gradle/
+/captures/
+
+# Machine/User specific
+local.properties
+.DS_Store
+Thumbs.db
+*.log
+
+# Firebase/Sensitive
+google-services.json
+*.jks
+*.keystore
+
+# External native builds
+.externalNativeBuild/
+.cxx/
