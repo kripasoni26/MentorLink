@@ -1,0 +1,15 @@
+<resources>
+    <color name="brand_primary">#0F766E</color>
+    <color name="brand_primary_dark">#115E59</color>
+    <color name="brand_secondary">#F59E0B</color>
+    <color name="screen_bg">#F4F7F6</color>
+    <color name="chat_bg">#EAF4F2</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_primary">#102A28</color>
+    <color name="text_secondary">#55706D</color>
+    <color name="text_hint">#7E9592</color>
+    <color name="line_soft">#D7E4E1</color>
+    <color name="white_80">#CCFFFFFF</color>
+    <color name="incoming_bubble">#FFFFFF</color>
+    <color name="role_pill_bg">#D7F1EE</color>
+</resources>
